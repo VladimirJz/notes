@@ -1,0 +1,69 @@
+**BI.**
+
+**Objetivo**
+Modelar el Datawarehouse de Megacentro
+
+
+**Propuesta**
+Creación de 4 Tableros de Control
+
+
+_KPI's_
+        - Ventas Totales (Cantidad)
+        - Ingreso por Ventas ($)
+        - Ventas / Meta ventas
+        - Cartera Vencida (%)
+        - 
+        
+_Ventas_
+Comparativo Ventas /Metas (KPI) bullet
+Comparativo Ventas / Historico (Grafica)
+
+
+
+_Inventario_
+Antiguedad de inventario
+
+
+_Cobranza_
+ -Monto Cartera Vencida ($) 
+ -Incremento Cartera Vencida (+/-) Bullet
+ Cartera Vencida (Rangos)
+ - Cartera Vencida por Sucursal
+ - Cartera Vencida por Agente.
+ 
+
+
+
+
+
+
+
+**Soluciòn técnologica**
+Software
+ - Suite Pentaho
+ - Maria DB
+ 
+
+ 
+ 
+ 
+Hardware
+- Servidor Linux
+
+       
+
+**Plan de Trabajo**
+
+
+
+Business Intelligence- 
+  - Definición de origen de datos.
+  - Transformaciòn
+  ´´sds´´´
+  ``dd`
+ 
+Alcance.
+= 
+Tableros de Control
+KPI's
